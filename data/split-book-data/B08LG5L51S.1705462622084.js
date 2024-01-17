@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Remember... Prairie Rose, Goldenrod, Camellia, now Yucca.</i></p> <p>Jon begins to put the pieces together concerning Magnolia, Luther receives an unsettling phone call, and the station gets a late-night visitor.</p>"; 

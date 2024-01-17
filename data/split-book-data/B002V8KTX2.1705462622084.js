@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "According to Freud, our unconscious impulses are not random, but packed with meaning, taking on color, form, and even a storyline. All dreams are actually wish fulfillments, and interpreting them can bridge the gap to the conscious, resulting in more meaningful living."; 
